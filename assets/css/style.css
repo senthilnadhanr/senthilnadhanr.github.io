@@ -1080,7 +1080,7 @@ textarea:-moz-placeholder {
 }
 /*------------------------- Blog Single -------------------------*/
 .blog-page-header {
-  background: url("../img/blog-header-img.jpg") no-repeat center;
+  background: url("../image/blog-header-img.jpg") no-repeat center;
   margin-top: 60px;
 }
 .blog-single .header-title {
